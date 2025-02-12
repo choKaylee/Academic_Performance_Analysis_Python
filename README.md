@@ -20,3 +20,4 @@ link stated on the Deliverables - Code/Report.
 Make sure all downloaded datasets are moved into the Final Project Folder.
 **Cool visualizations will pop up on the laptop screen!**
 
+![image](https://github.com/user-attachments/assets/ec5a402d-0559-42b8-95c2-64368f1b15f2)
